@@ -3,7 +3,7 @@ Resampling electrons to 1mm resolution for IROC submission
 
 # Important Rules
 There are a couple of important rules in to keep in mind when using this tool.
-1. The energy information input into the file is coming from the file name.
+1. The energy information written into the file is coming from the file name.
 2. The Applicator size is hard-coded to 15 (since that's what we use for output). Please feel free to change this after the re-sampled files are generated.
 3. IROC requests the machine model and Serial number be added to the file, so please add that after files are generated.
 
